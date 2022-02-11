@@ -1,0 +1,43 @@
+[
+  {
+    "elementName": "Giris Yap",
+    "locateUsing": "id",
+    "locator": "login"
+  },
+  {
+    "elementName": "Giris Yap Menu",
+    "locateUsing": "id",
+    "locator": "myAccount"
+  },
+  {
+    "elementName": "Username or phone",
+    "locateUsing": "id",
+    "locator": "txtUserName"
+  },
+  {
+    "elementName": "Giris Yap Button",
+    "locateUsing": "xpath",
+    "locator": "//button[text()='Giris yap']"
+  },
+  {
+    "elementName": "Password",
+    "locateUsing": "id",
+    "locator": "txtPassword"
+  },
+  {
+    "elementName": "Search Area",
+    "locateUsing": "id",
+    "locator": "productSearch"
+  },
+  {
+    "elementName": "Search Button",
+    "locateUsing": "id",
+    "locator": "buttonProductSearch"
+  }
+,
+  {
+    "elementName": "Sepete Ekle",
+    "locateUsing": "xpath",
+    "locator": "buttonProductSearch"
+  }
+]

@@ -1,0 +1,5 @@
+vodaprimetestautomation.iml
+.idea/*
+target/*
+build/*
+/target/
